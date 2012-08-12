@@ -3,7 +3,7 @@ import java.util.Date;
 import java.text.SimpleDateFormat;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
-
+ //edit
 //Ql/ˆø—p
 //http://www.javaroad.jp/java_character7.htm
 //http://java.sun.com/j2se/1.5.0/ja/docs/ja/api/java/util/regex/Matcher.html
